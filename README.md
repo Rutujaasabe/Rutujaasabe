@@ -1,4 +1,4 @@
-### Hi there 👋
+[### Hi there 👋
 
 <!--
 **Rutujaasabe/Rutujaasabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Rutuja Asabe</h1>
+<h3 align="center">I am Student</h3>
+<img align="right" alt="Coding" Width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F59734313%2F157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif&tbnid=qQViMd7j3uvKPM&vet=12ahUKEwiF_8HU--_-AhUNitgFHdXVAEwQMygEegQIARBK..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fpayalthummar&docid=LbZq2RIy3S6JcM&w=640&h=640&q=girl%20programmer%20animated%20images%20for%20github%20profile&hl=en&ved=2ahUKEwiF_8HU--_-AhUNitgFHdXVAEwQMygEegQIARBK">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaasabe&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaasabe" /> </p>
+
+<p align="left"> <a href="https://twitter.com/rutuja asabe" target="blank"><img src="https://img.shields.io/twitter/follow/rutuja asabe?logo=twitter&style=for-the-badge" alt="rutuja asabe" /></a> </p>
+
+- 🌱 I’m currently learning **Java**
+
+- 👯 I’m looking to collaborate on **Cancer Detection Using Machine Learning**
+
+- 💬 Ask me about **java , SQL , HTML**
+
+- 📫 How to reach me **asaberutuja9@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rutuja asabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutuja asabe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rutuja asabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutuja asabe" height="30" width="40" /></a>
+<a href="https://medium.com/rutuja asabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rutuja asabe" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rutuja asabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rutuja asabe" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rutujaasabe&show_icons=true&locale=en&layout=compact" alt="rutujaasabe" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujaasabe&show_icons=true&locale=en" alt="rutujaasabe" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rutujaasabe&" alt="rutujaasabe" /></p>
+)
