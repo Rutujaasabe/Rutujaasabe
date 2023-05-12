@@ -1,4 +1,4 @@
-[### Hi there 👋
+
 
 <!--
 **Rutujaasabe/Rutujaasabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Rutuja Asabe</h1>
 <h3 align="center">I am Student</h3>
-<img align="right" alt="Coding" Width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F59734313%2F157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif&tbnid=qQViMd7j3uvKPM&vet=12ahUKEwiF_8HU--_-AhUNitgFHdXVAEwQMygEegQIARBK..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fpayalthummar&docid=LbZq2RIy3S6JcM&w=640&h=640&q=girl%20programmer%20animated%20images%20for%20github%20profile&hl=en&ved=2ahUKEwiF_8HU--_-AhUNitgFHdXVAEwQMygEegQIARBK">
+<img align="right" alt="Coding" Width="400" src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="36px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaasabe&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaasabe" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rutuja asabe" target="blank"><img src="https://img.shields.io/twitter/follow/rutuja asabe?logo=twitter&style=for-the-badge" alt="rutuja asabe" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rutuja asabe" target="blank"><img src="https://twitter.com/RutujaAsabe" alt="rutuja asabe" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
