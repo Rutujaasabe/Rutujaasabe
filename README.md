@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **Cancer Detection Using Machine Learning**
+- 👯 I’m doing a project on  **Cancer Detection Using Machine Learning**
 
 - 💬 Ask me about **java , SQL , HTML**
 
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rutuja asabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutuja asabe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rutuja asabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutuja asabe" height="30" width="40" /></a>
+<a href="https://twitter.com/in/https://twitter.com/RutujaAsabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutuja asabe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rutujaasabe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rutuja asabe" height="30" width="40" /></a>
 <a href="https://medium.com/rutuja asabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="rutuja asabe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rutuja asabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rutuja asabe" height="30" width="40" /></a>
 </p>
