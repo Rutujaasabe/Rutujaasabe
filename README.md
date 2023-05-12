@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Rutuja Asabe</h1>
 <h3 align="center">I am Student</h3>
-<img align="right" alt="Coding" Width="400" src="https://media1.tenor.com/images/f88ee476d2f653b9cbc5a7b95acbd265/tenor.gif?itemid=11366012" width="36px">
+<img align="right" alt="Coding" Width="400" src="E:\ML_Project\157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif " width="36px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaasabe&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaasabe" /> </p>
 
