@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **asaberutuja9@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > CONNECT WITH ME:</h3>
 <p align="left">
 <a href="https://twitter.com/RutujaAsabe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutuja asabe" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
 
@@ -46,7 +46,8 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/asaberutuja9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rutuja asabe" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif"  height="20" width="25" > LANGUAGES AND TOOLS:</h3>
+
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a></br></br>&nbsp;
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
