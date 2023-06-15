@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 <h3 align="center">I am Student</h3>
 <p align="center">
   
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vaishnavilugade?label=Followers&style=social"> •
-  <a href="https://user-badge.committers.top/india_private/Rutujaasabe"><img src="https://user-badge.committers.top/india_private/Rutujaasabe.svg"></a>  •
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vaishnavilugade?label=Followers&style=social"> 
+    <img src="https://komarev.com/ghpvc/?username=rutujaasabe&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaasabe"> 
+
+  <a href="https://user-badge.committers.top/india_private/Rutujaasabe"><img src="https://user-badge.committers.top/india_private/Rutujaasabe.svg"></a>  
   <img src="https://img.shields.io/github/stars/Rutujaasabe?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-  <img src="https://komarev.com/ghpvc/?username=rutujaasabe&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaasabe"> 
 
 </p>
 
