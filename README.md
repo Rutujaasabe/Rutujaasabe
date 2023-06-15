@@ -20,12 +20,13 @@ Here are some ideas to get you started:
   
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/vaishnavilugade?label=Followers&style=social"> •
   <a href="https://user-badge.committers.top/india_private/Rutujaasabe"><img src="https://user-badge.committers.top/india_private/Rutujaasabe.svg"></a>  •
-  <img src="https://img.shields.io/github/stars/Rutujaasabe?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
+  <img src="https://img.shields.io/github/stars/Rutujaasabe?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
+  <img src="https://komarev.com/ghpvc/?username=rutujaasabe&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaasabe"> 
+
 </p>
 
 <img align="right" alt="Coding" Width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="36px"/> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutujaasabe&label=Profile%20views&color=0e75b6&style=flat" alt="rutujaasabe" /> </p>
 
 - 🌱 I’m currently learning **Java**
 
