@@ -15,18 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Rutuja Asabe</h1>
-<h3 align="center">I am Student</h3>
 <p align="center">
-  
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Rutujaasabe?label=Followers&style=social"> .
-  <img src="https://komarev.com/ghpvc/?username=Rutujaasabe&label=Profile%20views&color=red&style=flat" alt="Rutujaasabe"> .
-  <a href="https://user-badge.committers.top/india_private/Rutujaasabe"><img src="https://user-badge.committers.top/india_private/Rutujaasabe.svg"></a> . 
-  <img src="https://img.shields.io/github/stars/Rutujaasabe?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-
+  <img src="https://komarev.com/ghpvc/?username=Rutujaasabe&label=Profile%20views&color=0e75b6&style=flat" alt="Rutujaasabe" /> •  
+  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Rutujaasabe?label=Followers&style=social"> •
+  <a href="https://user-badge.committers.top/india_private/Rutujaasabe"><img src="https://user-badge.committers.top/india_private/Rutujaasabe.svg"></a>  •
+  <img src="https://img.shields.io/github/stars/Rutujaasabe?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> 
 </p>
-
-<img align="right" alt="Coding" Width="250" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="36px"/> 
-
+<img align="right" alt="Coding" Width="300" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="36px"/> 
+<h3 align="left"><img src="http://bestanimations.com/Signs&Shapes/Arrows/Right/right-arrow-24.gif" height="20" width="30" > ABOUT ME:</h3>
+ <p align="left"> • 👩🏻‍🎓 Student at <strong>SKNSCOE </strong> Pandharpur.</p>
 
 - 🌱 I’m currently learning **Java**
 
