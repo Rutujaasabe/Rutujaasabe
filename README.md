@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Rutuja Asabe</h1>
+<h1 align="center">Hello...👋, I'm Rutuja Asabe</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rutujaasabe&label=Profile%20views&color=0e75b6&style=flat" alt="Rutujaasabe" /> •  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Rutujaasabe?label=Followers&style=social"> •
@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m doing a project on  **Cancer Detection Using Machine Learning**
+- 👯 I’m doing a project on  **Cancer Prediction Using Deep Learning**
 
-- 💬 Ask me about **java , SQL , HTML**
+- 💬 Ask me about **Java, SQL, HTML, AIML, Git & Github**
 
 - 📫 How to reach me **asaberutuja9@gmail.com**
 
