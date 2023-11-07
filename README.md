@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello<img src ="https://media.tenor.com/RIPrRmkwX4cAAAAC/hi-njjsd.gif" width="36px"> , I'm Rutuja Asabe</h1>
+<h1 align="center">Hello<img src ="https://media.tenor.com/PsP7jZHEIr0AAAAM/bye-good-bye.gif" width="36px"> , I'm Rutuja Asabe</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rutujaasabe&label=Profile%20views&color=0e75b6&style=flat" alt="Rutujaasabe" /> •  
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/Rutujaasabe?label=Followers&style=social"> •
